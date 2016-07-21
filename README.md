@@ -1,7 +1,7 @@
 ## MCTrace
 MCTrace is a program for microtomographic model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++.
 
-<IMG width=100 height=140 alt=screenshot src="pics/rfview1.jpg" align=left>
+<IMG alt=screenshot src="pics/rfview1.jpg" align=left>
 Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCtrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze brain network.<BR clear=left>
 
 ## License
@@ -30,6 +30,7 @@ The latest MCTrace release is v3.2.8, currently available. The binary folder con
 will be released since this program is still under development. Source codes are not available at present.
 
 <UL>
+<li>v3.4.0 (built 1 Apr 2016). Many functions including those for using left-hand mouse were implemented since the last release.</li>
 <li>v3.2.8 (built 27 May 2013). x64 platform is now supported. Functions for crystallographic analysis were disabled and not supported from this release.</li>
 <li>v2.2.1 (relesed 6 Dec 2010). Graphics are accelerated with DirectX libraries. Functions for microtomographic analysis were thoroughly updated.</li>
 <li>v2.0.2 (released 9 Jun 2009). Functions for tomographic analysis were implemented.</li>
