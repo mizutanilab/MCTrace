@@ -1,0 +1,77 @@
+//MCTrace paramstd.txt
+//version2.00-rev110313
+////////////nodes///////////
+atomgroup C
+material_name C
+//atom	name	scatter mass	charge	eps/sgm14	eps/sgm15
+atom	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+atomgroup N
+material_name N
+//atom	name	scatter mass	charge	eps/sgm14	eps/sgm15
+atom	N	N	14.0067	0.0	0.2384 2.8509	0.2384 2.8509
+end
+atomgroup O
+material_name O
+//atom	name	scatter mass	charge	eps/sgm14	eps/sgm15
+atom	O	O	15.9994	0.0	0.1591 2.8509	0.1591 2.8509
+end
+atomgroup P
+material_name P
+//atom	name	scatter mass	charge	eps/sgm14	eps/sgm15
+atom	P	P	30.974	0.0	0.5849 3.3854	0.5849 3.3854
+end
+atomgroup S
+material_name S
+//atom	name	scatter mass	charge	eps/sgm14	eps/sgm15
+atom	S	S	32.06	0.0	0.043 3.3676	0.043 3.3676
+end
+atomgroup H
+material_name H
+//atom	name	scatter mass	charge	eps/sgm14	eps/sgm15
+atom	H	H	1.008	0.0	0.0498 1.4254	0.0498 1.4254
+end
+
+////////////cells///////////
+cell PYR
+material_name PyramidalNeuron
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
+cell STE
+material_name StellateNeuron
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
+cell ASY
+material_name AspinyNeuron
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
+cell NEU
+material_name Neuron
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
+cell GLI
+material_name GliaformCell
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
+cell VES
+material_name BloodVessel
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
+cell CEL
+material_name GeneralCell
+//node	name	scatter mass	charge	eps/sgm14	eps/sgm15
+node	C	C	12.011	0.0	0.1 3.3854	0.12 3.7418
+end
+
