@@ -9,7 +9,7 @@ MCTrace is provided under the <a href="https://sites.google.com/site/mizutanilab
 
 ## References
 <ul>
-<li><span style="font-family:trebuchet ms,sans-serif">*<u>R. Mizutani</u>, R. Saiga, S. Takekoshi, M. Arai, A. Takeuchi and Y. Suzuki (2015). Scanning brain networks with micro-CT. 
+<li>R. Mizutani, R. Saiga, S. Takekoshi, M. Arai, A. Takeuchi and Y. Suzuki (2015). Scanning brain networks with micro-CT. 
 <i>Microscopy Today</i> <b>23(5)</b>, 12-17. 
 <a href="http://www.microscopy-today.com/">Microscopy Today (Microscopy Society of America)</a>
 <a href="http://dx.doi.org/10.1017/S1551929515000784">DOI</a>
