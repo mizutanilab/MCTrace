@@ -5,7 +5,7 @@ MCTrace is a program for microtomographic model building and refinement with a g
 Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCtrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze brain network.<BR clear=left>
 
 ## License
-RecView is provided under the <a href="https://sites.google.com/site/mizutanilab1/software-recview/license">BSD 2-Clause License</a>.
+MCTrace is provided under the <a href="https://sites.google.com/site/mizutanilab1/software-recview/license">BSD 2-Clause License</a>.
 
 ## References
 <ul>
