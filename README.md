@@ -8,7 +8,13 @@ Neuronal circuits, which are essential for brain functions, are built up by neur
 RecView is provided under the <a href="https://sites.google.com/site/mizutanilab1/software-recview/license">BSD 2-Clause License</a>.
 
 ## References
-<ul><li>R. Mizutani, R. Saiga, A. Takeuchi, K. Uesugi and Y. Suzuki (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
+<ul>
+<li><span style="font-family:trebuchet ms,sans-serif">*<u>R. Mizutani</u>, R. Saiga, S. Takekoshi, M. Arai, A. Takeuchi and Y. Suzuki (2015). Scanning brain networks with micro-CT. 
+<i>Microscopy Today</i> <b>23(5)</b>, 12-17. 
+<a href="http://www.microscopy-today.com/">Microscopy Today (Microscopy Society of America)</a>
+<a href="http://dx.doi.org/10.1017/S1551929515000784">DOI</a>
+</li>
+<li>R. Mizutani, R. Saiga, A. Takeuchi, K. Uesugi and Y. Suzuki (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
 <i>J. Struct. Biol.</i> <b>184(2)</b>, 271-279.
 <a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a>
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a>
