@@ -32,7 +32,7 @@ MCTrace is provided under the <a href="https://sites.google.com/site/mizutanilab
 </ul>
 
 ## Release notes
-The latest MCTrace release is v3.2.8, currently available. The binary folder contains contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use the 'MCTrace' executable appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates 
+The latest MCTrace release is v3.4.0, currently available. The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates 
 will be released since this program is still under development. Source codes are not available at present.
 
 <UL>
