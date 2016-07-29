@@ -1,5 +1,5 @@
 ## MCTrace
-MCTrace is a program for micro/nano-tomographic model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++.
+MCTrace is a program for neuronal model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++.
 
 <IMG alt=screenshot src="pics/rfview1.jpg" align=left>
 Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCTrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze brain network.<BR clear=left>
@@ -32,8 +32,7 @@ MCTrace is provided under the <a href="https://sites.google.com/site/mizutanilab
 </ul>
 
 ## Release notes
-The latest MCTrace release is v3.4.0, currently available. The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates 
-will be released since this program is still under development. Source codes are not available at present.
+The latest MCTrace release is v3.4.0. The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates will be released since this program is still under development. Source codes are not available at present.
 
 <UL>
 <li>v3.4.0 (built 1 Apr 2016). Many functions including those for the left-hand mouse were implemented.</li>
@@ -72,7 +71,7 @@ The 'Analyze' menu provides several analysis tools.
 
 ## Frequently asked questions
 <OL>
-  <LI><b>System requirements.</b></LI>
+  <LI><b>System requirements</b></LI>
     MCTrace runs on most of Windows laptop and desktop PCs.<BR><BR>
   <LI><b>Manuals</b></LI>
     A brief how-to-use guide has been published as the appendix of the following paper:<BR><BR>
