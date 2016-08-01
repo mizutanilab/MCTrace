@@ -54,7 +54,7 @@ Download the MCTrace executable and parameter files to any folder you like.
 Double click the 'MCTrace' executable.
 
 <B>Open model</B>  
-From the menu bar, select 'File'-'Open' and choose a coordinate file. Click the 'OK' button. Double-click a node to highlight it and select 'Focus' from the right click menu. The highlighted node is brought to the center of the window with this procedure. You can focus on any particular part of the model by selecting 'View'-'Focus'. If you have no model coordinate, 
+From the menu bar, select 'File'-'Open' and choose a coordinate file. Click the 'OK' button. Double-click a node to highlight it and select 'Focus' from the right click menu. This will bring the highlighted node to the center of the window. You can focus on any particular part of the model by selecting 'View'-'Focus'. If you have no model coordinate, 
 'File'-'New' generates a new model.
 
 <B>Three-dimensional coefficient map</B>  
@@ -85,6 +85,6 @@ Department of Applied Biochemistry
 School of Engineering, Tokai University  
 Kitakaname 4-1-1, Hiratsuka, Kanagawa 259-1292, Japan  
 E-mail ryuta(at)tokai-u.jp  
-HP https://sites.google.com/site/mizutanilab1/  
+http://www.el.u-tokai.ac.jp/ryuta/
 <A href="http://www.linkedin.com/pub/ryuta-mizutani/79/832/115">Linkedin</A> - 
 <A href="http://www.facebook.com/people/Ryuta-Mizutani/100005433369640">Facebook</A><BR>
