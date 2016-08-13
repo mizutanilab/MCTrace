@@ -76,7 +76,7 @@ The 'Analyze' menu provides several analysis tools.
   <LI><b>Manuals</b></LI>
     A brief how-to-use guide has been published as the appendix of the following paper:<BR><BR>
 R. Mizutani, A. Takeuchi, K. Uesugi, S. Takekoshi, R.Y. Osamura and Y. Suzuki (2009). Three-dimensional microstructural analysis of human brain tissue by using synchrotron radiation microtomographs. In <i>Handbook on White Matter</i>, eds. Westland, T.B. &amp; Calton, R.N., New York, Nova Science Publishers, pp. 247-277.
-<a href="https://drive.google.com/open?id=0Byx6vGOSewwpcGdISUp0YTk5QW8">pdf</a> (9.5 MB)
+<a href="https://drive.google.com/open?id=0Byx6vGOSewwpcGdISUp0YTk5QW8">PDF (9.5 MB)</a>
 </OL>
 
 ## Contact
