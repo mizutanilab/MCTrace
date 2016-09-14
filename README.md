@@ -88,5 +88,3 @@ E-mail ryuta(at)tokai-u.jp
 https://mizutanilab.github.io/<br>
 <A href="http://www.linkedin.com/pub/ryuta-mizutani/79/832/115">Linkedin</A> - 
 <A href="http://www.facebook.com/people/Ryuta-Mizutani/100005433369640">Facebook</A><BR>
-
-[![Analytics](https://ga-beacon.appspot.com/UA-80845358-9/MCTrace/readme)](https://github.com/igrigorik/ga-beacon)
