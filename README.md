@@ -25,7 +25,7 @@ MCTrace is provided under the BSD 2-Clause License.
 <a href="http://link.aip.org/link/?APCPCS/1365/403/1">pdf@AIP</a> 
 </li>
 
-<li>R. Mizutani and Y. Suzuki (2012). X-ray Microtomography in biology. <i>Micron</i> <b>43(2-3)</b>, 104-115. Review. 
+<li>R. Mizutani and Y. Suzuki (2012). X-ray microtomography in biology. <i>Micron</i> <b>43(2-3)</b>, 104-115. Review. 
 <a href="http://dx.doi.org/10.1016/j.micron.2011.10.002">DOI</a> 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/22036251">PubMed</a> 
 <a href="https://arxiv.org/abs/1609.02263">arXiv</a> 
