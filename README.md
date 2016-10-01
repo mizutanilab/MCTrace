@@ -16,18 +16,19 @@ MCTrace is provided under the BSD 2-Clause License.
 </li>
 <li>R. Mizutani, R. Saiga, A. Takeuchi, K. Uesugi and Y. Suzuki (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
 <i>J. Struct. Biol.</i> <b>184(2)</b>, 271-279.
-<a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a>
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a>
+<a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a> 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a> 
+<a href="http://arxiv.org/abs/1609.02261">arXiv</a> 
 </li>
 <li>R. Mizutani, A. Takeuchi, K. Uesugi, S. Takekoshi, N. Nakamura and Y. Suzuki (2011). Building human brain network in 3D coefficient map determined by X-ray microtomography. <i>AIP Conference Proceedings</i> <b>1365</b>, 403-406.
-<a href="http://link.aip.org/link/?APCPCS/1365/403/1">Abstract and full-text pdf</a>
-<a href="https://drive.google.com/open?id=0Byx6vGOSewwpbXJ2TzV4WUROOGc">preprint</a> (right-click to download)
+<a href="http://dx.doi.org/10.1063/1.3625388">DOI</a> 
+<a href="http://link.aip.org/link/?APCPCS/1365/403/1">pdf@AIP</a> 
 </li>
 
 <li>R. Mizutani and Y. Suzuki (2012). X-ray Microtomography in biology. <i>Micron</i> <b>43(2-3)</b>, 104-115. Review. 
-<a href="http://dx.doi.org/10.1016/j.micron.2011.10.002">DOI</a>
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/22036251">PubMed</a>
-<a href="https://drive.google.com/open?id=0Byx6vGOSewwpU2JXZy1xMkRzMkU">preprint</a>
+<a href="http://dx.doi.org/10.1016/j.micron.2011.10.002">DOI</a> 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22036251">PubMed</a> 
+<a href="https://arxiv.org/abs/1609.02263">arXiv</a> 
 </li>
 </ul>
 
