@@ -36,6 +36,7 @@ MCTrace is provided under the BSD 2-Clause License.
 The latest MCTrace release is v3.4.0. The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates will be released since this program is still under development. Source codes are not available at present.
 
 <UL>
+<li>v3.4.1 (2 Nov 2016). Bug fix release.</li>
 <li>v3.4.0 (built 1 Apr 2016). Many functions including those for the left-hand mouse were implemented.</li>
 <li>v3.2.8 (built 27 May 2013). x64 platform is now supported. Functions for crystallographic analysis were disabled and not supported from this release.</li>
 <li>v2.2.1 (relesed 6 Dec 2010). Graphics are accelerated with DirectX libraries. Functions for microtomographic analysis were thoroughly updated.</li>
