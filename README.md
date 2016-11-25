@@ -25,8 +25,7 @@ MCTrace is provided under the BSD 2-Clause License.
 <a href="http://link.aip.org/link/?APCPCS/1365/403/1">pdf@AIP</a> 
 </li>
 
-<li>R. Mizutani and Y. Suzuki (2012). X-ray microtomography in biology. <i>Micron</i> <b>43(2-3)</b>, 104-115. Review. 
-<a href="http://dx.doi.org/10.1016/j.micron.2011.10.002">DOI</a> 
+<li>R. Mizutani and Y. Suzuki (2012). X-ray microtomography in biology. <i>Micron</i> <b>43(2-3)</b>, 104-115. Review. <a href="http://dx.doi.org/10.1016/j.micron.2011.10.002">DOI</a> 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/22036251">PubMed</a> 
 <a href="https://arxiv.org/abs/1609.02263">arXiv</a> 
 </li>
@@ -50,7 +49,7 @@ The latest MCTrace release is v3.4.0. The binary folder contains 'MCTrace' execu
 We believe that this program is self-explanatory, but the following tips should be helpful.
 
 <B>Installation</B>  
-Download the MCTrace executable and parameter files to any folder you like.
+Download the MCTrace executable and parameter file "paramstd.txt" to any folder you like.
 
 <B>Execution</B>  
 Double click the 'MCTrace' executable.
