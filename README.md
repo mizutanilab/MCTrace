@@ -17,6 +17,7 @@ MCTrace is provided under the BSD 2-Clause License.
 <li>R. Mizutani, R. Saiga, A. Takeuchi, K. Uesugi and Y. Suzuki (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
 <i>J. Struct. Biol.</i> <b>184(2)</b>, 271-279.
 <a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a> 
+
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a> 
 <a href="http://arxiv.org/abs/1609.02261">arXiv</a> 
 </li>
@@ -35,6 +36,7 @@ MCTrace is provided under the BSD 2-Clause License.
 The latest MCTrace release is v3.4.0. The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates will be released since this program is still under development. Source codes are not available at present.
 
 <UL>
+<li>v3.5.0 (6 Jan 2017) Routines for <a href="https://github.com/mizutanilab/BluetoothDials">Bluetooth Dials</a> were implemented.<li>
 <li>v3.4.1 (2 Nov 2016). Bug fix release.</li>
 <li>v3.4.0 (built 1 Apr 2016). Many functions including those for the left-hand mouse were implemented.</li>
 <li>v3.2.8 (built 27 May 2013). x64 platform is now supported. Functions for crystallographic analysis were disabled and not supported from this release.</li>
