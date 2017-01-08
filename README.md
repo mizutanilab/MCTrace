@@ -34,7 +34,7 @@ MCTrace is provided under the BSD 2-Clause License.
 </ul>
 
 ## Release notes
-The latest MCTrace release is v3.4.0. The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates will be released since this program is still under development. Source codes are not available at present.
+The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates will be released since this program is still under development. Source codes are not available at present.
 
 <UL>
 <li>v3.5.0 (6 Jan 2017) Routines for <a href="https://github.com/mizutanilab/BluetoothDials">Bluetooth Dials</a> were implemented.</li>
