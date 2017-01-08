@@ -9,6 +9,7 @@ MCTrace is provided under the BSD 2-Clause License.
 
 ## References
 <ul>
+<li>First 3-D Map of a Fruit Fly’s Brain Network. <i>MIT Technology Review</i> (Sep 16, 2016). <a href="https://www.technologyreview.com/s/602398/first-3-d-map-of-a-fruit-flys-brain-network/">link</a>
 <li>R. Mizutani, R. Saiga, S. Takekoshi, M. Arai, A. Takeuchi and Y. Suzuki (2015). Scanning brain networks with micro-CT. 
 <i>Microscopy Today</i> <b>23(5)</b>, 12-17. 
 <a href="http://www.microscopy-today.com/">Microscopy Today (Microscopy Society of America)</a>
