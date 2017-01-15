@@ -1,8 +1,8 @@
 ## MCTrace
-MCTrace is a program for neuronal model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++.
+MCTrace is a program for neuronal model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++ and uses DirectX 9.0 API.
 
 <IMG alt=screenshot src="pics/rfview1.jpg" align=left>
-Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCTrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze brain network.<BR clear=left>
+Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCTrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze brain network. The entire 3D network of fly brain hemisphere appeared in MIT Technology Review were built with this software.<BR clear=left>
 
 ## License
 MCTrace is provided under the BSD 2-Clause License.
@@ -49,7 +49,7 @@ The binary folder contains 'MCTrace' executables for x86 and x64 platforms along
 </UL>
 
 ## How to use
-We believe that this program is self-explanatory, but the following tips should be helpful.
+We believe that this program is self-explanatory. The following tips might be helpful, but some of them are outdated.
 
 <B>Installation</B>  
 Download the MCTrace executable and parameter file "paramstd.txt" to any folder you like.
