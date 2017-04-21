@@ -17,8 +17,7 @@ MCTrace is provided under the BSD 2-Clause License.
 </li>
 <li>R. Mizutani, R. Saiga, A. Takeuchi, K. Uesugi and Y. Suzuki (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
 <i>J. Struct. Biol.</i> <b>184(2)</b>, 271-279.
-<a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a> 
-
+<a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a>
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a> 
 <a href="http://arxiv.org/abs/1609.02261">arXiv</a> 
 </li>
