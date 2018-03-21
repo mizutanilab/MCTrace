@@ -33,7 +33,7 @@ MCTrace is provided under the BSD 2-Clause License.
 </ul>
 
 ## Release notes
-The binary folder contains 'MCTrace' executables for x86 and x64 platforms. Further updates will be released since this program is still under development.
+The binary folder contains MCTrace executables 'kozo---.exe' for x86 and x64 platforms. Further updates will be released since this program is still under development.
 
 <UL>
 <li>v3.8.0 (21 Mar 2018). Many functions including improved auto-tracing, structure annoation, geometry analysis, and SWC file loading routines were implemented. You can use MCTrace to view SWC files, such as those available from NeuroMorpho.Org.</li>
