@@ -1,8 +1,8 @@
 ## MCTrace
-MCTrace is a program for neuronal model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++ and uses DirectX 9.0 API.
+MCTrace is a program for skeletonized model building and refinement with a graphical user interface. It consists of over 50,000 lines of custom source code in C++ and uses DirectX 9.0 API.
 
 <IMG alt=screenshot src="pics/rfview1.jpg" align=left>
-Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCTrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze brain network. The entire 3D network of fly brain hemisphere appeared in MIT Technology Review were built with this software.<BR clear=left>
+Neuronal circuits, which are essential for brain functions, are built up by neurons as a 3D network, so tracing the 3D neuronal network of brain is the first step to understanding the mechanism of brain functions. We demonstrated that a skeletonized model of neuronal processes can be built by tracing the 3D coefficient map. An example of the obtained network model of human brain tissue using MCTrace is shown left. In this process, the 3D image was converted into 3D Cartesian coordinates by model building. The 3D coordinates are easier to handle than the image itself, making it possible to analyze the geometry of brain network. The entire 3D network of fly brain hemisphere appeared in MIT Technology Review were built with this software.<BR clear=left>
 
 ## License
 MCTrace is provided under the BSD 2-Clause License.
@@ -33,9 +33,10 @@ MCTrace is provided under the BSD 2-Clause License.
 </ul>
 
 ## Release notes
-The binary folder contains 'MCTrace' executables for x86 and x64 platforms along with a parameter file 'paramstd.txt'. Please use 'MCTrace.exe' appropriate for your PC platform. The parameter file should be placed in the folder where the MCTrace executable was extracted. Further updates will be released since this program is still under development. Source codes are not available at present.
+The binary folder contains 'MCTrace' executables for x86 and x64 platforms. Please use 'kozo.exe' appropriate for your PC platform. Further updates will be released since this program is still under development.
 
 <UL>
+<li>v3.8.0 (21 Mar 2018). Many functions including improved auto-tracing, structure annoation, and geometry analysis routines were implemented.</li>
 <li>v3.5.0 (6 Jan 2017) Routines for <a href="https://github.com/mizutanilab/BluetoothDials">Bluetooth Dials</a> were implemented.</li>
 <li>v3.4.1 (2 Nov 2016). Bug fix release.</li>
 <li>v3.4.0 (built 1 Apr 2016). Many functions including those for the left-hand mouse were implemented.</li>
@@ -48,38 +49,35 @@ The binary folder contains 'MCTrace' executables for x86 and x64 platforms along
 </UL>
 
 ## How to use
-We believe that this program is self-explanatory. The following tips might be helpful, but some of them are outdated.
+We believe that this program is self-explanatory. The following tips might be helpful.
 
 <B>Installation</B>  
-Download the MCTrace executable and parameter file "paramstd.txt" to any folder you like.
+Place the MCTrace executable to any folder you like.
 
 <B>Execution</B>  
 Double click the 'MCTrace' executable.
 
 <B>Open model</B>  
-From the menu bar, select 'File'-'Open' and choose a coordinate file. Click the 'OK' button. Double-click a node to highlight it and select 'Focus' from the right click menu. This will bring the highlighted node to the center of the window. You can focus on any particular part of the model by selecting 'View'-'Focus'. If you have no model coordinate, 
-'File'-'New' generates a new model.
+From the menu bar, select 'File'-'Open' and choose a coordinate file. Click the 'OK' button. Double-click a node to highlight it and select 'Focus' from the right click menu. This will bring the highlighted node to the center of the window. You can focus on any particular part of the model by selecting 'View'-'Focus'. If you have no model coordinate, 'File'-'New' generates a new model.
 
 <B>Three-dimensional coefficient map</B>  
-(Skip this step if you don't have map files.) Select 'Tomography'-'Load slices' to load tomographic slices in TIFF format. After the map files were loaded, open the map dialog from the 'Tomography'-'Coeff map' menu, select 'Generate new map', and enter parameters of 'CT mesh' and 'Display' region. Recommended values are '1' for the CT mesh and '20 x 20 x 20' for the display region. Enable one of map 'Contours' and set an approriate contour level in map 'sigma'. A recommended value of the contour level is '3'. 'Apply' invokes map update.
+(This function is currently disabled.) Select 'Model building'-'Load slices' to load tomographic slices in TIFF format. After the map files were loaded, open the map dialog from the 'Model building'-'Coeff map' menu, select 'Generate new map', and enter parameters of 'CT mesh' and 'Display' region. Recommended values are '1' for the CT mesh and '20 x 20 x 20' for the display region. Enable one of map 'Contours' and set an approriate contour level in 'sigma' (standard deviation of your map). A recommended value of the contour level is '3'. 'Apply' invokes the map update.
 
 <B>Modify model</B>  
-First, double click the model to be modified, deleted, or otherwise manipulated. Select 'Edit'-'Delete' to delete part of the model or 'Move' to rotate or translate. The double-clicked node can be moved by dragging.
+First, double click the model to be modified, deleted, or otherwise manipulated. Select 'Edit'-'Delete' to delete part of the model or 'Move' to rotate or translate. The double-clicked node can be moved by mouse dragging.
 
 <B>Statistical analysis</B>  
-The 'Analyze' menu provides several analysis tools.
+The 'Analyze' menu provides a number of analysis tools.
 
 <B>Refinement</B>  
-(Optional) Open the 'Tomography'-'Refine' dialog. Enter appropriate parameters for dynamics and/or minimization calculation. 'Start' executes refinement. Models under refinement are dynamically displayed and can be manipulated.
+Open the 'Model building'-'Refine' dialog. Enter appropriate parameters for dynamics and/or minimization calculation. 'Start' executes refinement. Models under refinement are dynamically displayed and can be manipulated.
 
 ## Frequently asked questions
 <OL>
   <LI><b>System requirements</b></LI>
     MCTrace runs on most of Windows laptop and desktop PCs.<BR><BR>
   <LI><b>Manuals</b></LI>
-    A brief how-to-use guide has been published as the appendix of the following paper:<BR><BR>
-R. Mizutani, A. Takeuchi, K. Uesugi, S. Takekoshi, R.Y. Osamura and Y. Suzuki (2009). Three-dimensional microstructural analysis of human brain tissue by using synchrotron radiation microtomographs. In <i>Handbook on White Matter</i>, eds. Westland, T.B. &amp; Calton, R.N., New York, Nova Science Publishers, pp. 247-277.
-<a href="https://drive.google.com/open?id=0Byx6vGOSewwpcGdISUp0YTk5QW8">PDF (9.5 MB)</a>
+    We have no manuals appropriate for the current version.<BR><BR>
 </OL>
 
 ## Contact
@@ -87,7 +85,7 @@ Ryuta Mizutani, Dr., Prof.
 Department of Applied Biochemistry  
 School of Engineering, Tokai University  
 Kitakaname 4-1-1, Hiratsuka, Kanagawa 259-1292, Japan  
-E-mail ryuta(at)tokai-u.jp  
+E-mail mizutanilaboratory(at)gmail.com  
 https://mizutanilab.github.io/<br>
 <A href="http://www.linkedin.com/pub/ryuta-mizutani/79/832/115">Linkedin</A> - 
 <A href="http://www.facebook.com/people/Ryuta-Mizutani/100005433369640">Facebook</A> - 
