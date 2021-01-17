@@ -9,43 +9,43 @@ MCTrace is provided under the BSD 2-Clause License.
 
 ## References
 <ul>
-<li>First 3-D Map of a Fruit Fly’s Brain Network. <i>MIT Technology Review</i> (Sep 16, 2016). <a href="https://www.technologyreview.com/s/602398/first-3-d-map-of-a-fruit-flys-brain-network/">link</a>
-<li>R. Mizutani, R. Saiga, S. Takekoshi, M. Arai, A. Takeuchi and Y. Suzuki (2015). Scanning brain networks with micro-CT. 
-<i>Microscopy Today</i> <b>23(5)</b>, 12-17. 
-<a href="http://www.microscopy-today.com/">Microscopy Today (Microscopy Society of America)</a>
-<a href="http://dx.doi.org/10.1017/S1551929515000784">DOI</a>
+<LI>R. Mizutani et al (2021). Structural diverseness of neurons between brain areas and between cases. <I>Transl. Psychiatry</I> <B>11</B>, 49. 
+ <a href="https://doi.org/10.1038/s41398-020-01173-x">DOI</a>
+ <a href="https://www.nature.com/articles/s41398-020-01173-x.pdf">pdf</a>
 </li>
-<li>R. Mizutani, R. Saiga, A. Takeuchi, K. Uesugi and Y. Suzuki (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
-<i>J. Struct. Biol.</i> <b>184(2)</b>, 271-279.
-<a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a>
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a> 
-<a href="http://arxiv.org/abs/1609.02261">arXiv</a> 
+<LI>R. Mizutaniet al (2019). Three-dimensional alteration of neurites in schizophrenia. <I>Transl. Psychiatry</I> <B>9</B>, 85. 
+ <a href="https://dx.doi.org/10.1038/s41398-019-0427-4">DOI</a>
+ <A href="https://arxiv.org/abs/1804.00404">arXiv</A>
 </li>
-<li>R. Mizutani, A. Takeuchi, K. Uesugi, S. Takekoshi, N. Nakamura and Y. Suzuki (2011). Building human brain network in 3D coefficient map determined by X-ray microtomography. <i>AIP Conference Proceedings</i> <b>1365</b>, 403-406.
-<a href="http://dx.doi.org/10.1063/1.3625388">DOI</a> 
-<a href="http://link.aip.org/link/?APCPCS/1365/403/1">pdf@AIP</a> 
+<li>First 3-D Map of a Fruit Fly’s Brain Network. <i>MIT Technology Review</i> (Sep 16, 2016). 
+ <a href="https://www.technologyreview.com/s/602398/first-3-d-map-of-a-fruit-flys-brain-network/">link</a>
 </li>
-
-<li>R. Mizutani and Y. Suzuki (2012). X-ray microtomography in biology. <i>Micron</i> <b>43(2-3)</b>, 104-115. Review. <a href="http://dx.doi.org/10.1016/j.micron.2011.10.002">DOI</a> 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/22036251">PubMed</a> 
-<a href="https://arxiv.org/abs/1609.02263">arXiv</a> 
+<li>R. Mizutani et al (2013). Three-dimensional network of <i>Drosophila</i> brain hemisphere. 
+ <i>J. Struct. Biol.</i> <b>184(2)</b>, 271-279.
+ <a href="http://dx.doi.org/10.1016/j.jsb.2013.08.012">DOI</a>
+ <a href="http://www.ncbi.nlm.nih.gov/pubmed/24012710">PubMed</a> 
+ <a href="http://arxiv.org/abs/1609.02261">arXiv</a> 
 </li>
+<LI>R. Mizutani et al (2010). Microtomographic analysis of neuronal circuits of human brain. <I>Cerebral Cortex</I> <B>20(7)</B>, 1739-1748.
+<a href="http://dx.doi.org/10.1093/cercor/bhp237">DOI</A>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/19915092">PubMed</A>
 </ul>
 
 ## Release notes
-The binary folder contains MCTrace executables 'kozo---.exe' for x86 and x64 platforms. Further updates will be released since this program is still under development.
+The binary folder contains a MCTrace executable 'kozo---.exe'. Further updates will be released since this program is still under development. This page was previously posted in our lab site and moved from there in 2016. 
 
 <UL>
-<li>v3.8.0 (21 Mar 2018). Many functions including improved auto-tracing, structure annoation, geometry analysis, and SWC file loading routines were implemented. You can use MCTrace to view SWC files, such as those available from NeuroMorpho.Org.</li>
-<li>v3.5.0 (6 Jan 2017) Routines for <a href="https://github.com/mizutanilab/BluetoothDials">Bluetooth Dials</a> were implemented.</li>
-<li>v3.4.1 (2 Nov 2016). Bug fix release.</li>
-<li>v3.4.0 (built 1 Apr 2016). Many functions including those for the left-hand mouse were implemented.</li>
-<li>v3.2.8 (built 27 May 2013). x64 platform is now supported. Functions for crystallographic analysis were disabled and not supported from this release.</li>
-<li>v2.2.1 (relesed 6 Dec 2010). Graphics are accelerated with DirectX libraries. Functions for microtomographic analysis were thoroughly updated.</li>
-<li>v2.0.2 (released 9 Jun 2009). Functions for tomographic analysis were implemented.</li>
-<li>v1.0.2 (released 9 Jan 2007). Cut, copy and paste functions were debugged. Refinement dialog was updated. Users now can specify regions to be refined.</li>
-<li>v1.0.1 (released 12 Dec 2006). Cut, copy and paste functions were implemented. Exponential subroutine was replaced with a custom one. This makes the structure factor calculation over three times faster than before.</li>
-<li>v1.0.0 is released (12 Nov 2006).</li>
+  <li>Build Dec-25-2020. Functions including those for the analysis of vessel strucrures were implemented.</li>
+  <li>v3.8.0 (21 Mar 2018). Many functions including improved auto-tracing, structure annoation, geometry analysis, and SWC file loading routines were implemented. You can use MCTrace to view SWC files, such as those available from NeuroMorpho.Org.</li>
+  <li>v3.5.0 (6 Jan 2017) Routines for <a href="https://github.com/mizutanilab/BluetoothDials">Bluetooth Dials</a> were implemented.</li>
+  <li>v3.4.1 (2 Nov 2016). Bug fix release.</li>
+  <li>v3.4.0 (built 1 Apr 2016). Many functions including those for the left-hand mouse were implemented.</li>
+  <li>v3.2.8 (built 27 May 2013). x64 platform is now supported. Functions for crystallographic analysis were disabled and not supported from this release.</li>
+  <li>v2.2.1 (relesed 6 Dec 2010). Graphics are accelerated with DirectX libraries. Functions for microtomographic analysis were thoroughly updated.</li>
+  <li>v2.0.2 (released 9 Jun 2009). Functions for tomographic analysis were implemented.</li>
+  <li>v1.0.2 (released 9 Jan 2007). Cut, copy and paste functions were debugged. Refinement dialog was updated. Users now can specify regions to be refined.</li>
+  <li>v1.0.1 (released 12 Dec 2006). Cut, copy and paste functions were implemented. Exponential subroutine was replaced with a custom one. This makes the structure factor calculation over three times faster than before.</li>
+  <li>v1.0.0 is released (12 Nov 2006).</li>
 </UL>
 
 ## How to use
@@ -61,7 +61,7 @@ Double click the 'MCTrace' executable.
 From the menu bar, select 'File'-'Open' and choose a coordinate file. Click the 'OK' button. Double-click a node to highlight it and select 'Focus' from the right click menu. This will bring the highlighted node to the center of the window. You can focus on any particular part of the model by selecting 'View'-'Focus'. If you have no model coordinate, 'File'-'New' generates a new model.
 
 <B>Three-dimensional coefficient map</B>  
-(This function is currently disabled.) Select 'Model building'-'Load slices' to load tomographic slices in TIFF format. After the map files were loaded, open the map dialog from the 'Model building'-'Coeff map' menu, select 'Generate new map', and enter parameters of 'CT mesh' and 'Display' region. Recommended values are '1' for the CT mesh and '20 x 20 x 20' for the display region. Enable one of map 'Contours' and set an approriate contour level in 'sigma' (standard deviation of your map). A recommended value of the contour level is '3'. 'Apply' invokes the map update.
+Select 'Model building'-'Load slices' to load tomographic slices in TIFF format. After the map files were loaded, open the map dialog from the 'Model building'-'Coeff map' menu, select 'Generate new map', and enter parameters of 'CT mesh' and 'Display' region. Enable one of map 'Contours' and set an approriate contour level in 'sigma' (standard deviation of your map). A recommended value of the contour level is '3'. 'Apply' invokes the map update.
 
 <B>Modify model</B>  
 First, double click the model to be modified, deleted, or otherwise manipulated. Select 'Edit'-'Delete' to delete part of the model or 'Move' to rotate or translate. The double-clicked node can be moved by mouse dragging.
