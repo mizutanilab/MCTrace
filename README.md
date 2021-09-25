@@ -29,6 +29,7 @@ MCTrace is provided under the BSD 2-Clause License.
 <LI>R. Mizutani et al (2010). Microtomographic analysis of neuronal circuits of human brain. <I>Cerebral Cortex</I> <B>20(7)</B>, 1739-1748.
 <a href="http://dx.doi.org/10.1093/cercor/bhp237">DOI</A>
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/19915092">PubMed</A>
+</li>
 </ul>
 
 ## Release notes
