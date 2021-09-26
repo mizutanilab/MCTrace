@@ -33,7 +33,7 @@ MCTrace is provided under the BSD 2-Clause License.
 </ul>
 
 ## Release notes
-The binary folder contains a MCTrace executable 'kozo---.exe'. Further updates will be released since this program is still under development. This page was previously posted in our lab site and moved from there in 2016. 
+The MCTrace executable 'kozo---.exe' is available from the Releases pane on the right. This page was previously posted in our lab site and moved from there in 2016. 
 
 <UL>
   <li>Build Dec-25-2020. Functions including those for the analysis of vessel strucrures were implemented.</li>
