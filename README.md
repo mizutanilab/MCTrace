@@ -33,7 +33,7 @@ MCTrace is provided under the BSD 2-Clause License.
 </ul>
 
 ## Release notes
-The MCTrace executable 'kozo---.exe' is available from the Releases pane of the <b><a href="https://github.com/mizutanilab/MCTrace">repository homepage</a></b>. This page was previously posted in our lab site and moved from there in 2016. 
+MCTrace executable 'kozo---.exe' is available from the Releases pane of the <b><a href="https://github.com/mizutanilab/MCTrace">repository homepage</a></b>. This page was previously posted in our lab site and moved from there in 2016. 
 
 <UL>
   <li>Build Dec-25-2020. Functions including those for the analysis of vessel strucrures were implemented.</li>
