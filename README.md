@@ -36,6 +36,7 @@ MCTrace is provided under the BSD 2-Clause License.
 MCTrace executable 'kozo---.exe' is available from the Releases pane of the <b><a href="https://github.com/mizutanilab/MCTrace">repository homepage</a></b>. This page was previously posted in our lab site and moved from there in 2016. 
 
 <UL>
+  <li>Build Jan-16-2023. Executables compiled with VS2008 and VS2017 are both available.</li>
   <li>Build Dec-25-2020. Functions including those for the analysis of vessel strucrures were implemented.</li>
   <li>v3.8.0 (21 Mar 2018). Many functions including improved auto-tracing, structure annoation, geometry analysis, and SWC file loading routines were implemented. You can use MCTrace to view SWC files, such as those available from NeuroMorpho.Org.</li>
   <li>v3.5.0 (6 Jan 2017) Routines for <a href="https://github.com/mizutanilab/BluetoothDials">Bluetooth Dials</a> were implemented.</li>
@@ -53,7 +54,7 @@ MCTrace executable 'kozo---.exe' is available from the Releases pane of the <b><
 We believe that this program is self-explanatory. The following tips might be helpful.
 
 <B>Installation</B>  
-Place the MCTrace executable to any folder you like.
+Place the MCTrace executable to any folder you like. If you use the exe compiled with VS2008 (such as that compiled on Jun 2021), you may need ["Microsoft Visual C++ 2008 SP1 Redistributable Package" available from the MS official site](https://www.microsoft.com/en-us/download/details.aspx?id=26368).
 
 <B>Execution</B>  
 Double click the 'MCTrace' executable.
